@@ -32,6 +32,8 @@ gem 'hoptoad_notifier', "~> 2.4"
 
 #gem 'errbit_gitlab_plugin'
 
+gem 'errbit_gitlab_plugin'
+
 # Notification services
 # ---------------------------------------
 gem 'campy'
