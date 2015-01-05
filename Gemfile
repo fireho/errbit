@@ -29,6 +29,8 @@ gem 'draper', :require => false
 gem 'errbit_plugin', github: 'errbit/errbit_plugin'
 gem 'errbit_github_plugin', github: 'errbit/errbit_github_plugin'
 
+gem 'errbit_gitlab_plugin'
+
 # Notification services
 # ---------------------------------------
 gem 'campy'
