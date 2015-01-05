@@ -112,6 +112,9 @@ GEM
     email_spec (1.6.0)
       launchy (~> 2.1)
       mail (~> 2.2)
+    errbit_gitlab_plugin (0.1.0)
+      errbit_plugin (~> 0.4, >= 0.4.0)
+      gitlab (~> 3.0.0, >= 3.0.0)
     erubis (2.7.0)
     execjs (2.2.2)
     fabrication (2.11.3)
@@ -123,6 +126,8 @@ GEM
     foreman (0.77.0)
       dotenv (~> 1.0.2)
       thor (~> 0.19.1)
+    gitlab (3.0.0)
+      httparty
     haml (4.0.6)
       tilt
     hashie (3.3.2)
@@ -367,6 +372,7 @@ DEPENDENCIES
   draper
   email_spec
   errbit_github_plugin!
+  errbit_gitlab_plugin
   errbit_plugin!
   fabrication
   flowdock
