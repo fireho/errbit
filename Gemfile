@@ -33,7 +33,7 @@ gem 'errbit_github_plugin'
 
 gem 'dotenv-rails'
 
-gem 'errbit_gitlab_plugin'
+#gem 'errbit_gitlab_plugin'
 
 # Notification services
 # ---------------------------------------
